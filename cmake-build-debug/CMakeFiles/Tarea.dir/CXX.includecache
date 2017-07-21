@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/Tarea/Evaluador.cpp
+Evaluador.h
+C:/Users/ASUS/CLionProjects/Tarea/Evaluador.h
+
+C:/Users/ASUS/CLionProjects/Tarea/Evaluador.h
+iostream
+-
+stack
+-
+
+C:/Users/ASUS/CLionProjects/Tarea/main.cpp
+Evaluador.h
+C:/Users/ASUS/CLionProjects/Tarea/Evaluador.h
+iostream
+-
+
